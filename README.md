@@ -5,7 +5,7 @@ This project analyzes chocolate sales data using Microsoft Excel to evaluate sal
 ----
 ## Dashboard Preview
 The Chocolate Sales Analytics Dashboard was developed in Microsoft Excel to present key sales metrics and business performance indicators in a single interactive view.
-![Chocolate Sales Analytics Dashboard](image/Overview-Dashboard.png)
+![Chocolate Sales Analytics Dashboard](images/Overview-Dashboard.png)
 ----
 ### Dashboard Highlights
 - **KPI Cards:** Total sales, orders, boxes shipped, average order value (AOV), marketing spend, and discounts.
